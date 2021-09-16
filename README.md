@@ -1,1 +1,1 @@
-# EpicArcheryStage6-Project27
+# project-C27-template
